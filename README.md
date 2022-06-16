@@ -1,5 +1,5 @@
 # Cai winson
-<img align="left" src="https://images-ext-2.discordapp.net/external/kESy4ybv9kIacPPtIJOhbX2xw7Kj6LCD5ccGxrfJgoU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/720900711260487681/0856a29f212210c5f8955a557ce2b5d9.webp" width="100" height="100">
+<img align="left" src="https://cabbage.caiwinson.repl.co/guilds" width="100" height="100">
 
 **A Discord bot developer made with Python:** Discord.py Module
 
