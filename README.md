@@ -1,7 +1,7 @@
 # Cai winson
-<img align="left" src="https://cabbage.caiwinson.repl.co/pfp.png" width="100" height="100">
+<img align="left" src="https://lanyard.cnrad.dev/api/720900711260487681">
 
-**A Discord bot developer made with Python:** Discord.py Module
+**A Discord bot developer made with Python**
 
 Have been coding since March 2021
 <br clear="left"/>
