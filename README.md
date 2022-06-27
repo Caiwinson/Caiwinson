@@ -4,6 +4,9 @@
 **A Discord bot developer made with Python**
 
 Have been coding since March 2021
+
+Feel free to dm me at
+[@Discord](https://discord.com/users/720900711260487681)
 <br clear="left"/>
 
 ## Current project:
