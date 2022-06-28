@@ -12,9 +12,9 @@ Feel free to dm me at
 
 ## Current project:
 **Gamify**
-![](https://cdn.discordapp.com/avatars/909367670833561600/ae7b0acc222c2c9cda70d051357ff20a.png?size=256) | [![Invite](https://media.discordapp.net/attachments/972386427205734471/985588331775656056/button_invite-gamify_1.png)](https://top.gg/bot/909367670833561600)
+![](https://cdn.discordapp.com/avatars/909367670833561600/ae7b0acc222c2c9cda70d051357ff20a.png?size=256) | [![Invite](https://dabuttonfactory.com/button.png?t=Invite+Gamify&f=Ubuntu-Bold&ts=33&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798)](https://top.gg/bot/909367670833561600)
 :-------------------------:|:-------------------------:
-
+![](https://cdn.discordapp.com/avatars/991228880146940036/26f109112eb86613d2a6360f4d28847d.png?size=256) | [![Invite](https://dabuttonfactory.com/button.png?t=Invite+osu!verify&f=Ubuntu-Bold&ts=33&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=f270aa)](https://top.gg/bot/991228880146940036)
 
 [![](https://github-readme-stats.vercel.app/api?username=Caiwinson&show_icons=true&theme=blueberry)](https://github.com/Caiwinson)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiwinson&show_icons=true&theme=blueberry)
