@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Caiwinson&color=green&style=for-the-badge)
 # Cai winson
 <img align="left" src="https://lanyard.cnrad.dev/api/720900711260487681">
 
@@ -16,3 +17,4 @@ Feel free to dm me at
 
 
 [![](https://github-readme-stats.vercel.app/api?username=Caiwinson&show_icons=true&theme=blueberry)](https://github.com/Caiwinson)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiwinson&show_icons=true&theme=blueberry)
